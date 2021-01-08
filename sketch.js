@@ -56,7 +56,6 @@ function draw() {
   sling5.display();
   //sling6.display();
 
-  keyPressed();
   drawSprites ();
 }
 
